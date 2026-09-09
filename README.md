@@ -1,21 +1,19 @@
-# Hi, I'm Kabir Sinha
+# Kabir Sinha
 
-Computer Science undergraduate focused on:
+Computer Science undergraduate at Bennett University, working at the intersection of technology, analytics, and decision-making.
 
-• AI / Machine Learning  
-• Generative AI  
-• Cybersecurity  
-• Technopreneurship  
-• Risk Analysis & Decision Making
+## Featured
 
-Tech Stack:
-Python • PyTorch • Diffusion Models • GANs • Computer Vision • Git
+**[AIRIX](https://github.com/kabir-sinha/airix)** — a real-time statistical price index for Indian domestic airfares, built for Smart India Hackathon 2026 (SIH26056, Ministry of Statistics & Programme Implementation). Uses the Jevons Index and DGCA-weighted route data to track fare movement the way an official government price index is constructed.
 
-Currently working on:
-Generative AI laboratory projects involving Stable Diffusion, GANs, and synthetic dataset generation.
+**AeroAdapt** *(in progress)* — an AI-assisted decision-support system evaluating tactical flight-path alternatives against fuel, cost, and emissions trade-offs. Bennett University capstone project.
 
-Selected Projects:
-- Generative AI Labs — Synthetic image dataset generation using diffusion models
-- GAN-based MNIST generator — PyTorch implementation
+Both projects sit at the same intersection: applying data and AI to problems with a real economic or operational stake, not just a technical one.
 
-Building practical Generative AI projects and strengthening problem-solving foundations.
+## Background
+
+International academic exchange at INTI International University (Malaysia) and an entrepreneurship immersion program at FPT University (Vietnam). Coursework in generative AI, applied statistics, and data structures.
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/kabirsinha)
