@@ -4,11 +4,9 @@ Computer Science undergraduate at Bennett University, working at the intersectio
 
 ## Featured
 
-**[AIRIX](https://github.com/kabir-sinha/airix)** — a real-time statistical price index for Indian domestic airfares, built for Smart India Hackathon 2026 (SIH26056, Ministry of Statistics & Programme Implementation). Uses the Jevons Index and DGCA-weighted route data to track fare movement the way an official government price index is constructed.
+**[AIRIX](https://github.com/kabir-sinha/airix)** — a real-time statistical price index for Indian domestic airfares, built for Smart India Hackathon 2026 (SIH26056, Ministry of Statistics & Programme Implementation). Jevons index with DGCA-weighted routes, constructed the way an official price index is.
 
-**[SOCRIX](https://github.com/kabir-sinha/socrix)** — offline SOC assurance analytics, built for Smart India Hackathon 2026 (SIH26157, NTRO/NCIIPC). Reads the records security operations centres already keep, finds where operations are weak or silent, and explains every finding with the exact evidence behind it. Runs fully air-gapped, with no external AI.
-
-Both projects sit at the same intersection: applying data and AI to problems with a real economic or operational stake, not just a technical one.
+**[SOCRIX](https://github.com/kabir-sinha/socrix)** — offline SOC assurance analytics, built for Smart India Hackathon 2026 (SIH26157, NTRO/NCIIPC). Finds where security operations are weak or silent and explains every finding with the evidence behind it. Fully air-gapped, no external AI.
 
 ## Background
 
